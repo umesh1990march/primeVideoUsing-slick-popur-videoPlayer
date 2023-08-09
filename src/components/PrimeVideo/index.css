@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.movies-container {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.movies-content {
+  padding: 10px 30px;
+}
